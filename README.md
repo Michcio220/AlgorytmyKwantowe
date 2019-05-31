@@ -1,2 +1,2 @@
 # SystemyWbudowaneProjekt
-Projekt na zaliczenie przedmiotu sustemy wbudowane
+Projekt na zaliczenie przedmiotu systemy wbudowane
