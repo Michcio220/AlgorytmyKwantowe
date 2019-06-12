@@ -1,2 +1,2 @@
 # SystemyWbudowaneProjekt
-Projekt na zaliczenie przedmiotu systemy wbudowane
+Projekt na zaliczenie przedmiotu algorytmy kwantowe
